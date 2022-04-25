@@ -1,6 +1,6 @@
 # Web Scraper
 
-command line tool, to scraper content off a website.
+command line tool, to scrape content of a website.
 the main arguments are the url followed by the css selector.
 
 ## Usage
